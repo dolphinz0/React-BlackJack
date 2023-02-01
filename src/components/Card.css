@@ -1,0 +1,10 @@
+.card {
+    display: inline-block;
+}
+.card img {
+    width:100px;
+}
+.card-container__user, .card-container__dealer {
+   font-size: 50px;
+   margin: 50px;
+}
